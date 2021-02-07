@@ -1,0 +1,87 @@
+/*header start here*/
+.header{
+    background-color: black;
+   overflow: hidden;
+
+}
+.h1{
+	color: white;
+	font-style: italic;
+	text-align: center;
+}/*header end here*/
+
+/*main start here*/
+.main{
+	width: 70%;
+	min-height: 400px;
+	float: left;
+	background-color: lightblue;
+	display: inline-block;
+	overflow :hidden;
+
+}
+.h2{
+	font-size: 30px;
+	font-style: italic;
+	text-align: center;
+	color: white;
+	margin-top: 50px;
+	padding: 50px;
+}/*main end here*/
+/*aside start here*/
+.aside{
+	width: 30%;
+	min-height: 400px;
+	float: right;
+	background-color: blue;
+	display: block;
+	overflow: hidden;
+}
+/*aside end here*/
+.section{
+	min-height: 200px;
+	background-color: black;
+	overflow: hidden;
+	margin-top: 400px; 
+
+}
+#h2{
+	font-style: italic;
+	margin: 5px;
+}
+.box{
+	width: 150px;
+	min-height: 150px;
+	background-color: white;
+	border: 4px solid pink;
+	float: left;
+	margin: 75px;
+    text-align: center;
+
+}
+.box1{
+
+}
+.box2{
+}
+.box3{
+}
+.box4{
+}
+.box5{
+
+}
+
+.footer{
+	min-height: 100px;
+	background-color: teal;
+	overflow: hidden;
+}
+.end-h2{
+	font-size: 30px;
+	color: white;
+	text-align: center;
+	font-style: italic;
+
+
+}
